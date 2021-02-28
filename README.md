@@ -1,7 +1,7 @@
 # time-travel
  Projeto de faculdade realizado no 2º período
 
-  *Banco de Dados (ARA0040) 
+  *Banco de Dados (ARA0040)<br>
   *Desenv. WEB em HTML5,CSS,JavaScript e PHP(ARA0062)
     --Nome do grupo--
 Alice Torres Mansur Pereira
